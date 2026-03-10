@@ -1,8 +1,7 @@
 {
   "bundle": {
     "resources": {
-      ".resources/lproj/ja.lproj/": "ja.lproj",
-      ".resources/lproj/en.lproj/": "en.lproj"
+      "Resources/": ""
     }
   }
 }
